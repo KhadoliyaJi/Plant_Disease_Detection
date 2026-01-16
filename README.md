@@ -24,6 +24,7 @@ The model is trained on a labeled dataset of plant leaf images and uses advanced
 ├── README.md                               # Documentation
 └── dataset/                                # Plant leaf images
 
+
 🧪 **Technologies Used**
 
 - Python
