@@ -15,7 +15,7 @@ The model is trained on a labeled dataset of plant leaf images and uses advanced
 - Well-structured and modular code for training & testing
 
 🏗️**Project Structure**
-'''
+```text
 📁 Plant-Disease-Detection-CNN
 │
 ├── train_plant_disease_CNN_model.ipynb     # Model training
@@ -23,7 +23,7 @@ The model is trained on a labeled dataset of plant leaf images and uses advanced
 ├── requirements.txt                        # Dependencies
 ├── README.md                               # Documentation
 └── dataset/                                # Plant leaf images
-'''
+```
 
 
 🧪 **Technologies Used**
